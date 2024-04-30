@@ -1,7 +1,6 @@
 # Tailwind CSS Landing Page
 
 This project is a simple landing page built using Tailwind CSS, a utility-first CSS framework for rapidly building custom designs.
-
 ## Getting Started
 
 To get started with this project, follow these steps:
